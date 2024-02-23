@@ -27,20 +27,20 @@ Program ini menggambarkan hubungan pewarisan berjenjang ( multi-level inheritanc
      -  color : Warna kemeja.
      -  sleeve_type : Jenis lengan kemeja (misalnya, "Short Sleeve" atau "Long Sleeve").
 
-#DIAGRAM
+# DIAGRAM
 ![LP2](https://github.com/AlfiFaiz/LP2DPBO2024C1/assets/134774589/00bf7c8e-b2ee-4b6e-a35e-6c550fdd0f9d)
 
-#screenshot
-##PHP
+# screenshot
+## PHP
 ![image](https://github.com/AlfiFaiz/LP2DPBO2024C1/assets/134774589/73404a10-e36e-4aa2-829b-47c0bd2459dd)
 
-##CPP
+## CPP
 ![image](https://github.com/AlfiFaiz/LP2DPBO2024C1/assets/134774589/45891732-ed85-406a-9661-79f50cdbfd40)
 
-##PYTHON
+## PYTHON
 ![image](https://github.com/AlfiFaiz/LP2DPBO2024C1/assets/134774589/4cea0d4d-0ed8-4c84-9869-05ab93790ef3)
 
-##JAVA
+## JAVA
 ![image](https://github.com/AlfiFaiz/LP2DPBO2024C1/assets/134774589/ef2d5b94-e087-4fca-9572-5900768b6485)
 
 
